@@ -1,6 +1,4 @@
-## Home of the Waterbear Collective
-
-The Waterbear Collective helps to develop technological sovereignty and coooperation among communities impacted by environmental or infrastructural challenges: including vulnerable cities, rural townships, farming communities, and islands.
+The **Waterbear Collective** helps to develop technological sovereignty and coooperation among communities impacted by environmental or infrastructural challenges: including vulnerable cities, rural townships, farming communities, and islands.
 
 We facilitate workshops, trainings, and collaborative development focused on building locally-owned, resilient municipal and community infrastructure using an open, collaborative design process.  Recent projects include:
 
