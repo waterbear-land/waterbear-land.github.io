@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Home of the Waterbear Collective
 
-You can use the [editor on GitHub](https://github.com/waterbear-land/waterbear-land.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Waterbear Collective helps to develop technological sovereignty and coooperation among communities impacted by environmental or infrastructural challenges: including vulnerable cities, rural townships, farming communities, and islands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We facilitate workshops, trainings, and collaborative development focused on building locally-owned, resilient municipal and community infrastructure using an open, collaborative design process.  Recent projects include:
 
-### Markdown
+- resilient communication systems
+- off-grid water monitoring (flood, drought, salinity)
+- retrofitting greenhouse control systems 
+- capturing soil health data from remote farm fields
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can view all of our designs and code on <a href="http://github.com/edgecollective">github</a>.
 
-```markdown
-Syntax highlighted code block
+Get in touch with us at: collaborate at edgecollective dot io
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waterbear-land/waterbear-land.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links
+- [Solarpunk](solarpunk.html) -- A collection of readings and links on the #solarpunk movement.
+- [Scuttlebutt](https://www.scuttlebutt.nz/) -- Decentralized social networking.
+- [Dat Project](https://datproject.org/) -- The Dat decentralized data protocol.
+- [Beaker Browser](https://beakerbrowser.com/) -- An easy way to explore the decentralized web.
+- [P2P Foundation](https://blog.p2pfoundation.net/) -- Articles, essays, podcasts.
+- [Farmhack](http://farmhack.org/tools) -- Collaborative agriculture tech.
+- [FarmOS](https://farmos.org/) -- Open source agriculture data platform.
+- [GOAT](http://goatech.org/) -- Gathering for Open Agriculture Technology.
+- [Wolfe's Neck Center for Agriculture and the Environment](https://www.wolfesneck.org/) -- Regenerative coastal farming.
+- [Artisan's Asylum](https://artisansasylum.com/) -- Enormous hackerspace in Somerville, MA.
+- [Alternative Economic Models](postcapitalism.html) -- Ongoing notes.
+- [NOAH: Neighborhood of Affordable Housing](http://noahcdc.org/) -- Community development org in East Boston, MA.
